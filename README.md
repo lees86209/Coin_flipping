@@ -4,6 +4,9 @@
 
 ## code
 * This is the 'main' function which can calculate the probability of win and lose
+* There are two variables that need to be entered
+* First input (n/-n). It decide to calcute the rate of win of lose
+* Second input (number). It decide to flip how many times coin
 
 ## test
 * This is test function for testing the 'main' function
