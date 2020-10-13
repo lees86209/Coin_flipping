@@ -1,5 +1,3 @@
-
-
 from itertools import combinations_with_replacement # 引入可重複出現結果庫
 import pandas as pd # 引入pandas庫
 import sys
