@@ -10,3 +10,6 @@
 
 ## test
 * This is test function for testing the 'main' function
+
+## Directory Structure
+![image](https://github.com/lees86209/Coin_flipping/blob/main/Project-Directory%20Structure.png)
